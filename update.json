@@ -1,6 +1,6 @@
 [{
   "app": "SparkTools",
-  "version": "1.20",
+  "version": "1.0",
   "required": false,
   "title": "Update Available",
   "message": "What's new in this update:\n\n• New skins added\n• Improved download speed\n• Fixed crash issues\n• UI performance improvements",
